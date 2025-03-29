@@ -131,7 +131,7 @@ figcaption {
     margin-top: -20px;
     margin-bottom: 10px;
     text-align: center;
-    color: $gray;
+    color: $lightpurp;
 }
 
 .gmnoprint img {
@@ -147,13 +147,13 @@ hr {
 
 .date {
   font-weight: bold;
-  color: $gray;
+  color: $lightpurp;
   margin-bottom: 35px;
 }
 
 .post-categories {
   font-weight: bold;
-  color: $gray;
+  color: $lightpurp;
   margin-bottom: 40px;
 
   .categories-button {
@@ -163,7 +163,7 @@ hr {
     border-radius: 03px;
     background: #ffffff;
     font-weight: 400;
-    color: $gray;
+    color: $lightpurp;
     font-size: 16px !important;
     white-space: nowrap;
     text-decoration: none;
@@ -187,13 +187,13 @@ hr {
 .share-post {
   isolation: isolate;
   font-weight: bold;
-  color: $gray;
+  color: $lightpurp;
   margin-bottom: 30px;
   }
 
 .no-comments {
   font-weight: bold;
-  color: $gray;
+  color: $lightpurp;
   margin-bottom: 25px;
 }
 
@@ -202,7 +202,7 @@ hr {
     margin: 0;
     padding: 0;
     font-weight: bold;
-    color: $gray;
+    color: $lightpurp;
   }
 }
 
@@ -221,7 +221,7 @@ hr {
         margin: 0;
         padding: 0;
         font-weight: bold;
-        color: $gray;
+        color: $lightpurp;
       }
 
       &:first-child {
@@ -238,7 +238,7 @@ hr {
 
 .category-head {
   font-weight: bold;
-  color: $gray;
+  color: $lightpurp;
 }
 
 ::-moz-selection {
@@ -252,7 +252,7 @@ hr {
 
 blockquote {
   background-color: $palepink;
-  color: $gray;
+  color: $lightpurp;
   border-left: 04px solid #eeeeee;
   padding-left: 15px;
   font-size: 16px !important;
@@ -478,7 +478,7 @@ a[href^="#fnref:"] {
 
 .site-description {
   margin: -05px 0 0 0;
-  color: $gray;
+  color: $lightpurp;
   font-size: 16px !important;
   font-weight: 400;
 
@@ -600,7 +600,7 @@ footer {
   .social-icon {
     display: inline-block;
     padding: 0 04px;
-    color: $gray;
+    color: $lightpurp;
 
       &:hover {
       color: $darkpurp;
