@@ -8,7 +8,7 @@ html {
 }
 
 body {
-  background: $white;
+  background: $palepink;
   font-family: $sans-font-family;
   font-weight: 400;
   font-size: 18px;
@@ -242,16 +242,16 @@ hr {
 }
 
 ::-moz-selection {
-  color: $white;
+  color: $palepink;
   background: $blue;
 }
 ::selection {
-  color: $white;
+  color: $palepink;
   background: $blue;
 }
 
 blockquote {
-  background-color: $white;
+  background-color: $palepink;
   color: $gray;
   border-left: 04px solid #eeeeee;
   padding-left: 15px;
